@@ -1,3 +1,5 @@
 test me
 
 changes from feature branch
+
+changes from new feature
